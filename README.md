@@ -36,4 +36,5 @@ Register Number : 212223230038
 ![image](https://github.com/deepika3095/Muttiple-capacity-with-infinite-capacity/assets/151625159/2b0c0414-3a32-4af6-b57e-29915aa2569b)
 
 ## Result : 
+Thus the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully
 
